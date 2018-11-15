@@ -1,0 +1,34 @@
+.bg-black{
+	background-color: black;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+.font-div{
+	width: 30%;
+}
+.space{
+
+padding: 20px;
+}
+.fa:hover{
+	text-anchor:aqua;
+}
+.fa a{
+	background-color: white;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
